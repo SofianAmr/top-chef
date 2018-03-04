@@ -12,6 +12,8 @@
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.2",
     "fs": "0.0.1-security",
-    "request": "^2.83.0"
+    "map": "^1.0.1",
+    "request": "^2.83.0",
+    "similarity": "^1.1.1"
   }
 }
